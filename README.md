@@ -1,2 +1,2 @@
 # College Website
-website for Aidan Shahmaram's college 
+Website for Aidan Shahmaram's college 
