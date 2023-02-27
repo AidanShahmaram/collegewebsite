@@ -1,2 +1,2 @@
-# collegewebsite
-website for colleges I applied and got accepted to
+# College Website
+website for Aidan Shahmaram's college 
